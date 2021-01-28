@@ -1,0 +1,7 @@
+[user]
+	email = rkbriankong@gmail.com
+	name = rkbrian
+[credential]
+	helper = store
+[push]
+	default = simple
